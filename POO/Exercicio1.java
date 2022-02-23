@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio1 {
+
     public static int dias_do_mes(int mes){
         switch (mes){
             case 1: case 3: case 5: case 7: case 8: case 10: case 12: return 31;
