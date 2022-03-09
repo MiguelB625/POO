@@ -1,6 +1,6 @@
 package Ficha3;
 
-public class Exercicio1 {
+public class TesteCirculo {
     public static void main(String[] args) {
         // Teste 1
         Circulo c1 = new Circulo();
