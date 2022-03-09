@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exercicio1 {
     public int min(int [] arr){
-        int min = arr[0];
+        int min = Integer.MAX_VALUE;
 
         for(int i=0; i<arr.length; i++){
             if (arr[i] < min) min = arr[i];
