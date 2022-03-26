@@ -1,6 +1,5 @@
-package Ficha4;
+package Ficha4.CasaInteligente;
 
-import java.awt.*;
 import java.util.*;
 import java.util.stream.Collectors;
 

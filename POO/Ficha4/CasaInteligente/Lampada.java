@@ -1,4 +1,4 @@
-package Ficha4;
+package Ficha4.CasaInteligente;
 
 /*********************************************************************************/
 /** DISCLAIMER: Este cÃ³digo foi criado e alterado durante as aulas prÃ¡ticas      */

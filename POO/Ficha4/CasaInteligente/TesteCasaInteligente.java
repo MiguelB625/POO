@@ -1,7 +1,5 @@
-package Ficha4;
+package Ficha4.CasaInteligente;
 
-import java.awt.*;
-import java.sql.Array;
 import java.util.ArrayList;
 import java.util.Set;
 
